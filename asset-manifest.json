@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "quirax.github.io/static/css/main.f0876414.chunk.css",
-    "main.js": "quirax.github.io/static/js/main.84b8674f.chunk.js",
-    "main.js.map": "quirax.github.io/static/js/main.84b8674f.chunk.js.map",
-    "runtime-main.js": "quirax.github.io/static/js/runtime-main.933a733a.js",
-    "runtime-main.js.map": "quirax.github.io/static/js/runtime-main.933a733a.js.map",
-    "static/js/2.416ff4f0.chunk.js": "quirax.github.io/static/js/2.416ff4f0.chunk.js",
-    "static/js/2.416ff4f0.chunk.js.map": "quirax.github.io/static/js/2.416ff4f0.chunk.js.map",
-    "index.html": "quirax.github.io/index.html",
-    "precache-manifest.5b31bb3413a0b747252dcd29c8e7732c.js": "quirax.github.io/precache-manifest.5b31bb3413a0b747252dcd29c8e7732c.js",
-    "service-worker.js": "quirax.github.io/service-worker.js",
-    "static/css/main.f0876414.chunk.css.map": "quirax.github.io/static/css/main.f0876414.chunk.css.map",
-    "static/js/2.416ff4f0.chunk.js.LICENSE.txt": "quirax.github.io/static/js/2.416ff4f0.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "quirax.github.io/static/media/logo.5d5d9eef.svg"
+    "main.css": "/P2/static/css/main.f0876414.chunk.css",
+    "main.js": "/P2/static/js/main.a1eacd15.chunk.js",
+    "main.js.map": "/P2/static/js/main.a1eacd15.chunk.js.map",
+    "runtime-main.js": "/P2/static/js/runtime-main.044a9ef1.js",
+    "runtime-main.js.map": "/P2/static/js/runtime-main.044a9ef1.js.map",
+    "static/js/2.416ff4f0.chunk.js": "/P2/static/js/2.416ff4f0.chunk.js",
+    "static/js/2.416ff4f0.chunk.js.map": "/P2/static/js/2.416ff4f0.chunk.js.map",
+    "index.html": "/P2/index.html",
+    "precache-manifest.a9b6d4eb19f07c96ced19820a67a0e53.js": "/P2/precache-manifest.a9b6d4eb19f07c96ced19820a67a0e53.js",
+    "service-worker.js": "/P2/service-worker.js",
+    "static/css/main.f0876414.chunk.css.map": "/P2/static/css/main.f0876414.chunk.css.map",
+    "static/js/2.416ff4f0.chunk.js.LICENSE.txt": "/P2/static/js/2.416ff4f0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/P2/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.933a733a.js",
+    "static/js/runtime-main.044a9ef1.js",
     "static/js/2.416ff4f0.chunk.js",
     "static/css/main.f0876414.chunk.css",
-    "static/js/main.84b8674f.chunk.js"
+    "static/js/main.a1eacd15.chunk.js"
   ]
 }
