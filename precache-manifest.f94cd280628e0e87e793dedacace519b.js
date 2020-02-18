@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "250dfcb90d22d45fa0c804a4887a4beb",
+    "revision": "9712902040b70199f251059cad97ce06",
     "url": "quirax.github.io/P2/index.html"
   },
   {
-    "revision": "9e9c14f4e978a454a2ac",
-    "url": "quirax.github.io/P2/static/css/main.f0876414.chunk.css"
+    "revision": "1cd542fba6319a2eec4d",
+    "url": "quirax.github.io/P2/static/css/main.9b81b21b.chunk.css"
   },
   {
-    "revision": "57dddce44f4e888b97b3",
-    "url": "quirax.github.io/P2/static/js/2.416ff4f0.chunk.js"
+    "revision": "782c2ed1406560b2fa78",
+    "url": "quirax.github.io/P2/static/js/2.47519902.chunk.js"
   },
   {
     "revision": "99bd0487192ec9e7d9ee8fbbd91ee444",
-    "url": "quirax.github.io/P2/static/js/2.416ff4f0.chunk.js.LICENSE.txt"
+    "url": "quirax.github.io/P2/static/js/2.47519902.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9e9c14f4e978a454a2ac",
-    "url": "quirax.github.io/P2/static/js/main.9a52b1bd.chunk.js"
+    "revision": "1cd542fba6319a2eec4d",
+    "url": "quirax.github.io/P2/static/js/main.f61b7ca2.chunk.js"
   },
   {
     "revision": "6a09f1d3af2c6fdcf375",
